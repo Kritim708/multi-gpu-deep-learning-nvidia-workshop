@@ -1,0 +1,10 @@
+Epoch =  1: Cumulative Time = 33.194, Epoch Time = 33.194, Images/sec = 751.9505615234375, Training Accuracy = 0.557, Validation Loss = 1.205, Validation Accuracy = 0.557
+Epoch =  1: Cumulative Time = 33.193, Epoch Time = 33.193, Images/sec = 1503.908203125, Training Accuracy = 0.557, Validation Loss = 1.205, Validation Accuracy = 0.557
+Epoch =  2: Cumulative Time = 62.476, Epoch Time = 29.283, Images/sec = 1708.8662109375, Training Accuracy = 0.699, Validation Loss = 0.859, Validation Accuracy = 0.699
+Epoch =  2: Cumulative Time = 62.336, Epoch Time = 29.142, Images/sec = 856.488037109375, Training Accuracy = 0.699, Validation Loss = 0.859, Validation Accuracy = 0.699
+Epoch =  3: Cumulative Time = 91.848, Epoch Time = 29.512, Images/sec = 845.7566528320312, Training Accuracy = 0.750, Validation Loss = 0.709, Validation Accuracy = 0.750
+Epoch =  3: Cumulative Time = 92.130, Epoch Time = 29.654, Images/sec = 1687.458740234375, Training Accuracy = 0.750, Validation Loss = 0.709, Validation Accuracy = 0.750
+Epoch =  4: Cumulative Time = 121.579, Epoch Time = 29.731, Images/sec = 839.5224609375, Training Accuracy = 0.731, Validation Loss = 0.794, Validation Accuracy = 0.731
+Epoch =  4: Cumulative Time = 122.004, Epoch Time = 29.874, Images/sec = 1675.036376953125, Training Accuracy = 0.731, Validation Loss = 0.794, Validation Accuracy = 0.731
+Epoch =  5: Cumulative Time = 152.001, Epoch Time = 29.997, Images/sec = 1668.158935546875, Training Accuracy = 0.786, Validation Loss = 0.623, Validation Accuracy = 0.786
+Epoch =  5: Cumulative Time = 151.433, Epoch Time = 29.854, Images/sec = 836.0723266601562, Training Accuracy = 0.786, Validation Loss = 0.623, Validation Accuracy = 0.786

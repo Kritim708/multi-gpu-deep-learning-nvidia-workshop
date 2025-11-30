@@ -1,0 +1,1 @@
+python3 assessment.py --node-id 0 --num-gpus 2 --num-nodes 1 --batch-size 128 --target-accuracy 0.75 --patience 2
